@@ -1,0 +1,6 @@
+{
+  "name": "SENA - Seguimiento de Etapa Práctica",
+  "description": "Sistema de gestión de fichas, bitácoras, georreferenciación y matriz de certificación con regla de 16 ítems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

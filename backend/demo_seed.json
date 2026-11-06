@@ -1,0 +1,2028 @@
+{
+  "fichas": [
+    {
+      "id": "ficha-1",
+      "numero": "2847431",
+      "programa": "Análisis y Desarrollo de Software (ADSO)",
+      "codigoPrograma": "228106",
+      "regional": "Regional Antioquia",
+      "centro": "Centro de Formación en Diseño, Confección y Moda / CTPI",
+      "fechaInicioLectiva": "2024-04-15",
+      "fechaFinLectiva": "2025-04-14",
+      "fechaInicioPractica": "2025-04-15",
+      "fechaFinPractica": "2025-10-15",
+      "instructorId": "inst-1",
+      "instructorNombre": "Ing. Hernán Darío Velásquez",
+      "totalAprendices": 5
+    },
+    {
+      "id": "ficha-2",
+      "numero": "2712950",
+      "programa": "Gestión de Redes de Datos",
+      "codigoPrograma": "228107",
+      "regional": "Regional Antioquia",
+      "centro": "Centro de Teleinformática y Producción Industrial",
+      "fechaInicioLectiva": "2024-02-01",
+      "fechaFinLectiva": "2025-02-01",
+      "fechaInicioPractica": "2025-02-02",
+      "fechaFinPractica": "2025-08-02",
+      "instructorId": "inst-1",
+      "instructorNombre": "Ing. Hernán Darío Velásquez",
+      "totalAprendices": 1
+    }
+  ],
+  "aprendices": [
+    {
+      "id": "apr-1",
+      "nombre": "Carlos Mario Restrepo Álvarez",
+      "documento": "1020485912",
+      "email": "cmrestrepo@misena.edu.co",
+      "telefono": "314 780 2314",
+      "fichaId": "ficha-1",
+      "fichaNumero": "2847431",
+      "programa": "Análisis y Desarrollo de Software (ADSO)",
+      "etapa": "Práctica",
+      "items": {
+        "B1": {
+          "id": "B1",
+          "label": "B1",
+          "tipo": "bitacora",
+          "numero": 1,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_1_Carlos_Mario_Restrepo.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 1 - Etapa Productiva",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 80,
+            "actividades": [
+              "Implementación de microservicios backend con Java Spring Boot y API Gateway.",
+              "Diseño de pruebas unitarias con JUnit y Mockito alcanzando 85% de cobertura.",
+              "Participación activa en ceremonias Scrum y despliegues en AWS EKS."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Esteban Restrepo",
+            "cargoTutor": "Líder Técnico de Arquitectura Cloud",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Bancolombia S.A..",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B2": {
+          "id": "B2",
+          "label": "B2",
+          "tipo": "bitacora",
+          "numero": 2,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_2_Carlos_Mario_Restrepo.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 2 - Etapa Productiva",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 160,
+            "actividades": [
+              "Implementación de microservicios backend con Java Spring Boot y API Gateway.",
+              "Diseño de pruebas unitarias con JUnit y Mockito alcanzando 85% de cobertura.",
+              "Participación activa en ceremonias Scrum y despliegues en AWS EKS."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Esteban Restrepo",
+            "cargoTutor": "Líder Técnico de Arquitectura Cloud",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Bancolombia S.A..",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B3": {
+          "id": "B3",
+          "label": "B3",
+          "tipo": "bitacora",
+          "numero": 3,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_3_Carlos_Mario_Restrepo.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 3 - Etapa Productiva",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 240,
+            "actividades": [
+              "Implementación de microservicios backend con Java Spring Boot y API Gateway.",
+              "Diseño de pruebas unitarias con JUnit y Mockito alcanzando 85% de cobertura.",
+              "Participación activa en ceremonias Scrum y despliegues en AWS EKS."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Esteban Restrepo",
+            "cargoTutor": "Líder Técnico de Arquitectura Cloud",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Bancolombia S.A..",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B4": {
+          "id": "B4",
+          "label": "B4",
+          "tipo": "bitacora",
+          "numero": 4,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_4_Carlos_Mario_Restrepo.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 4 - Etapa Productiva",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 320,
+            "actividades": [
+              "Implementación de microservicios backend con Java Spring Boot y API Gateway.",
+              "Diseño de pruebas unitarias con JUnit y Mockito alcanzando 85% de cobertura.",
+              "Participación activa en ceremonias Scrum y despliegues en AWS EKS."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Esteban Restrepo",
+            "cargoTutor": "Líder Técnico de Arquitectura Cloud",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Bancolombia S.A..",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B5": {
+          "id": "B5",
+          "label": "B5",
+          "tipo": "bitacora",
+          "numero": 5,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_5_Carlos_Mario_Restrepo.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 5 - Etapa Productiva",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 400,
+            "actividades": [
+              "Implementación de microservicios backend con Java Spring Boot y API Gateway.",
+              "Diseño de pruebas unitarias con JUnit y Mockito alcanzando 85% de cobertura.",
+              "Participación activa en ceremonias Scrum y despliegues en AWS EKS."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Esteban Restrepo",
+            "cargoTutor": "Líder Técnico de Arquitectura Cloud",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Bancolombia S.A..",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B6": {
+          "id": "B6",
+          "label": "B6",
+          "tipo": "bitacora",
+          "numero": 6,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_6_Carlos_Mario_Restrepo.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 6 - Etapa Productiva",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 480,
+            "actividades": [
+              "Implementación de microservicios backend con Java Spring Boot y API Gateway.",
+              "Diseño de pruebas unitarias con JUnit y Mockito alcanzando 85% de cobertura.",
+              "Participación activa en ceremonias Scrum y despliegues en AWS EKS."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Esteban Restrepo",
+            "cargoTutor": "Líder Técnico de Arquitectura Cloud",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Bancolombia S.A..",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B7": {
+          "id": "B7",
+          "label": "B7",
+          "tipo": "bitacora",
+          "numero": 7,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_7_Carlos_Mario_Restrepo.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 7 - Etapa Productiva",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 560,
+            "actividades": [
+              "Implementación de microservicios backend con Java Spring Boot y API Gateway.",
+              "Diseño de pruebas unitarias con JUnit y Mockito alcanzando 85% de cobertura.",
+              "Participación activa en ceremonias Scrum y despliegues en AWS EKS."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Esteban Restrepo",
+            "cargoTutor": "Líder Técnico de Arquitectura Cloud",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Bancolombia S.A..",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B8": {
+          "id": "B8",
+          "label": "B8",
+          "tipo": "bitacora",
+          "numero": 8,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_8_Carlos_Mario_Restrepo.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 8 - Etapa Productiva",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 640,
+            "actividades": [
+              "Implementación de microservicios backend con Java Spring Boot y API Gateway.",
+              "Diseño de pruebas unitarias con JUnit y Mockito alcanzando 85% de cobertura.",
+              "Participación activa en ceremonias Scrum y despliegues en AWS EKS."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Esteban Restrepo",
+            "cargoTutor": "Líder Técnico de Arquitectura Cloud",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Bancolombia S.A..",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B9": {
+          "id": "B9",
+          "label": "B9",
+          "tipo": "bitacora",
+          "numero": 9,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_9_Carlos_Mario_Restrepo.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 9 - Etapa Productiva",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 720,
+            "actividades": [
+              "Implementación de microservicios backend con Java Spring Boot y API Gateway.",
+              "Diseño de pruebas unitarias con JUnit y Mockito alcanzando 85% de cobertura.",
+              "Participación activa en ceremonias Scrum y despliegues en AWS EKS."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Esteban Restrepo",
+            "cargoTutor": "Líder Técnico de Arquitectura Cloud",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Bancolombia S.A..",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B10": {
+          "id": "B10",
+          "label": "B10",
+          "tipo": "bitacora",
+          "numero": 10,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_10_Carlos_Mario_Restrepo.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 10 - Etapa Productiva",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 800,
+            "actividades": [
+              "Implementación de microservicios backend con Java Spring Boot y API Gateway.",
+              "Diseño de pruebas unitarias con JUnit y Mockito alcanzando 85% de cobertura.",
+              "Participación activa en ceremonias Scrum y despliegues en AWS EKS."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Esteban Restrepo",
+            "cargoTutor": "Líder Técnico de Arquitectura Cloud",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Bancolombia S.A..",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B11": {
+          "id": "B11",
+          "label": "B11",
+          "tipo": "bitacora",
+          "numero": 11,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_11_Carlos_Mario_Restrepo.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 11 - Etapa Productiva",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 880,
+            "actividades": [
+              "Implementación de microservicios backend con Java Spring Boot y API Gateway.",
+              "Diseño de pruebas unitarias con JUnit y Mockito alcanzando 85% de cobertura.",
+              "Participación activa en ceremonias Scrum y despliegues en AWS EKS."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Esteban Restrepo",
+            "cargoTutor": "Líder Técnico de Arquitectura Cloud",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Bancolombia S.A..",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B12": {
+          "id": "B12",
+          "label": "B12",
+          "tipo": "bitacora",
+          "numero": 12,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_12_Carlos_Mario_Restrepo.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 12 - Etapa Productiva",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 960,
+            "actividades": [
+              "Implementación de microservicios backend con Java Spring Boot y API Gateway.",
+              "Diseño de pruebas unitarias con JUnit y Mockito alcanzando 85% de cobertura.",
+              "Participación activa en ceremonias Scrum y despliegues en AWS EKS."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Esteban Restrepo",
+            "cargoTutor": "Líder Técnico de Arquitectura Cloud",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Bancolombia S.A..",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "carnet": {
+          "id": "carnet",
+          "label": "Carnet",
+          "tipo": "soporte",
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "CARNET_Carlos_Mario_Restrepo.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "fechaRevision": "2025-05-12",
+            "tipoDocumento": "Copia Carnet Institucional SENA",
+            "actividades": [
+              "Verificación de documento reglamentario: Copia Carnet Institucional SENA"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesInstructor": "Documento institucional válido y legible verificado."
+          }
+        },
+        "cedula": {
+          "id": "cedula",
+          "label": "C.C.",
+          "tipo": "soporte",
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "CEDULA_Carlos_Mario_Restrepo.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "fechaRevision": "2025-05-12",
+            "tipoDocumento": "Cédula de Ciudadanía al 150%",
+            "actividades": [
+              "Verificación de documento reglamentario: Cédula de Ciudadanía al 150%"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesInstructor": "Documento institucional válido y legible verificado."
+          }
+        },
+        "ape": {
+          "id": "ape",
+          "label": "APE",
+          "tipo": "soporte",
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "APE_Carlos_Mario_Restrepo.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "fechaRevision": "2025-05-12",
+            "tipoDocumento": "Certificado Registro APE (Agencia Pública de Empleo)",
+            "actividades": [
+              "Verificación de documento reglamentario: Certificado Registro APE (Agencia Pública de Empleo)"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesInstructor": "Documento institucional válido y legible verificado."
+          }
+        },
+        "tyt": {
+          "id": "tyt",
+          "label": "TyT",
+          "tipo": "soporte",
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "TYT_Carlos_Mario_Restrepo.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "fechaRevision": "2025-05-12",
+            "tipoDocumento": "Certificado Presentación Pruebas Saber TyT",
+            "actividades": [
+              "Verificación de documento reglamentario: Certificado Presentación Pruebas Saber TyT"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesInstructor": "Documento institucional válido y legible verificado."
+          }
+        }
+      },
+      "empresa": {
+        "razonSocial": "Bancolombia S.A.",
+        "nit": "890.903.938-8",
+        "direccion": "Carrera 48 # 26 - 85, Torre Norte",
+        "ciudad": "Medellín, Antioquia",
+        "tutorNombre": "Ing. Esteban Restrepo V.",
+        "tutorCargo": "Líder Técnico de Arquitectura Cloud",
+        "tutorTelefono": "312 456 7890",
+        "tutorEmail": "erestrepo@bancolombia.com.co",
+        "fechaInicio": "2025-04-15",
+        "fechaFin": "2025-10-15",
+        "modalidad": "Contrato de Aprendizaje",
+        "lat": 6.2295,
+        "lng": -75.5762
+      },
+      "pazYSalvoGenerado": true,
+      "fechaPazYSalvo": "2025-10-18"
+    },
+    {
+      "id": "apr-2",
+      "nombre": "Laura Sofía Gómez Cárdenas",
+      "documento": "1033782941",
+      "email": "lsgomez@misena.edu.co",
+      "telefono": "300 234 5678",
+      "fichaId": "ficha-1",
+      "fichaNumero": "2847431",
+      "programa": "Análisis y Desarrollo de Software (ADSO)",
+      "etapa": "Práctica",
+      "items": {
+        "B1": {
+          "id": "B1",
+          "label": "B1",
+          "tipo": "bitacora",
+          "numero": 1,
+          "estado": "none"
+        },
+        "B2": {
+          "id": "B2",
+          "label": "B2",
+          "tipo": "bitacora",
+          "numero": 2,
+          "estado": "none"
+        },
+        "B3": {
+          "id": "B3",
+          "label": "B3",
+          "tipo": "bitacora",
+          "numero": 3,
+          "estado": "none"
+        },
+        "B4": {
+          "id": "B4",
+          "label": "B4",
+          "tipo": "bitacora",
+          "numero": 4,
+          "estado": "none"
+        },
+        "B5": {
+          "id": "B5",
+          "label": "B5",
+          "tipo": "bitacora",
+          "numero": 5,
+          "estado": "none"
+        },
+        "B6": {
+          "id": "B6",
+          "label": "B6",
+          "tipo": "bitacora",
+          "numero": 6,
+          "estado": "none"
+        },
+        "B7": {
+          "id": "B7",
+          "label": "B7",
+          "tipo": "bitacora",
+          "numero": 7,
+          "estado": "none"
+        },
+        "B8": {
+          "id": "B8",
+          "label": "B8",
+          "tipo": "bitacora",
+          "numero": 8,
+          "estado": "none"
+        },
+        "B9": {
+          "id": "B9",
+          "label": "B9",
+          "tipo": "bitacora",
+          "numero": 9,
+          "estado": "none"
+        },
+        "B10": {
+          "id": "B10",
+          "label": "B10",
+          "tipo": "bitacora",
+          "numero": 10,
+          "estado": "none"
+        },
+        "B11": {
+          "id": "B11",
+          "label": "B11",
+          "tipo": "bitacora",
+          "numero": 11,
+          "estado": "none"
+        },
+        "B12": {
+          "id": "B12",
+          "label": "B12",
+          "tipo": "bitacora",
+          "numero": 12,
+          "estado": "none"
+        },
+        "carnet": {
+          "id": "carnet",
+          "label": "Carnet",
+          "tipo": "soporte",
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "CARNET_Laura_Sofia_Gomez.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "fechaRevision": "2025-05-12",
+            "tipoDocumento": "Copia Carnet Institucional SENA",
+            "actividades": [
+              "Verificación de documento reglamentario: Copia Carnet Institucional SENA"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesInstructor": "Documento institucional válido y legible verificado."
+          }
+        },
+        "cedula": {
+          "id": "cedula",
+          "label": "C.C.",
+          "tipo": "soporte",
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "CEDULA_Laura_Sofia_Gomez.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "fechaRevision": "2025-05-12",
+            "tipoDocumento": "Cédula de Ciudadanía al 150%",
+            "actividades": [
+              "Verificación de documento reglamentario: Cédula de Ciudadanía al 150%"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesInstructor": "Documento institucional válido y legible verificado."
+          }
+        },
+        "ape": {
+          "id": "ape",
+          "label": "APE",
+          "tipo": "soporte",
+          "estado": "none"
+        },
+        "tyt": {
+          "id": "tyt",
+          "label": "TyT",
+          "tipo": "soporte",
+          "estado": "none"
+        }
+      },
+      "empresa": {
+        "razonSocial": "MercadoLibre Colombia Ltda.",
+        "nit": "900.245.890-1",
+        "direccion": "Carrera 17 # 93 - 09, Piso 8",
+        "ciudad": "Bogotá D.C.",
+        "tutorNombre": "Ing. Roberto Silva P.",
+        "tutorCargo": "Tech Lead Full Stack",
+        "tutorTelefono": "311 987 6543",
+        "tutorEmail": "roberto.silva@mercadolibre.com.co",
+        "fechaInicio": "2025-04-15",
+        "fechaFin": "2025-10-15",
+        "modalidad": "Contrato de Aprendizaje",
+        "lat": 4.6784,
+        "lng": -74.0538
+      }
+    },
+    {
+      "id": "apr-3",
+      "nombre": "Juan David Martínez Zuluaga",
+      "documento": "1017849301",
+      "email": "jdmartinez@misena.edu.co",
+      "telefono": "318 654 3210",
+      "fichaId": "ficha-1",
+      "fichaNumero": "2847431",
+      "programa": "Análisis y Desarrollo de Software (ADSO)",
+      "etapa": "Lectiva",
+      "items": {
+        "B1": {
+          "id": "B1",
+          "label": "B1",
+          "tipo": "bitacora",
+          "numero": 1,
+          "estado": "none"
+        },
+        "B2": {
+          "id": "B2",
+          "label": "B2",
+          "tipo": "bitacora",
+          "numero": 2,
+          "estado": "none"
+        },
+        "B3": {
+          "id": "B3",
+          "label": "B3",
+          "tipo": "bitacora",
+          "numero": 3,
+          "estado": "none"
+        },
+        "B4": {
+          "id": "B4",
+          "label": "B4",
+          "tipo": "bitacora",
+          "numero": 4,
+          "estado": "none"
+        },
+        "B5": {
+          "id": "B5",
+          "label": "B5",
+          "tipo": "bitacora",
+          "numero": 5,
+          "estado": "none"
+        },
+        "B6": {
+          "id": "B6",
+          "label": "B6",
+          "tipo": "bitacora",
+          "numero": 6,
+          "estado": "none"
+        },
+        "B7": {
+          "id": "B7",
+          "label": "B7",
+          "tipo": "bitacora",
+          "numero": 7,
+          "estado": "none"
+        },
+        "B8": {
+          "id": "B8",
+          "label": "B8",
+          "tipo": "bitacora",
+          "numero": 8,
+          "estado": "none"
+        },
+        "B9": {
+          "id": "B9",
+          "label": "B9",
+          "tipo": "bitacora",
+          "numero": 9,
+          "estado": "none"
+        },
+        "B10": {
+          "id": "B10",
+          "label": "B10",
+          "tipo": "bitacora",
+          "numero": 10,
+          "estado": "none"
+        },
+        "B11": {
+          "id": "B11",
+          "label": "B11",
+          "tipo": "bitacora",
+          "numero": 11,
+          "estado": "none"
+        },
+        "B12": {
+          "id": "B12",
+          "label": "B12",
+          "tipo": "bitacora",
+          "numero": 12,
+          "estado": "none"
+        },
+        "carnet": {
+          "id": "carnet",
+          "label": "Carnet",
+          "tipo": "soporte",
+          "estado": "none"
+        },
+        "cedula": {
+          "id": "cedula",
+          "label": "C.C.",
+          "tipo": "soporte",
+          "estado": "none"
+        },
+        "ape": {
+          "id": "ape",
+          "label": "APE",
+          "tipo": "soporte",
+          "estado": "none"
+        },
+        "tyt": {
+          "id": "tyt",
+          "label": "TyT",
+          "tipo": "soporte",
+          "estado": "none"
+        }
+      },
+      "empresa": {
+        "razonSocial": "Ecopetrol S.A.",
+        "nit": "860.002.403-5",
+        "direccion": "Carrera 13 # 36 - 24",
+        "ciudad": "Bogotá D.C.",
+        "tutorNombre": "Dra. Patricia Cárdenas",
+        "tutorCargo": "Gerente TI & Analítica",
+        "tutorTelefono": "316 543 2109",
+        "tutorEmail": "patricia.cardenas@ecopetrol.com.co",
+        "fechaInicio": "2025-11-01",
+        "fechaFin": "2026-05-01",
+        "modalidad": "Contrato de Aprendizaje",
+        "lat": 4.6248,
+        "lng": -74.0682
+      }
+    },
+    {
+      "id": "apr-4",
+      "nombre": "Valentina Morales Henao",
+      "documento": "1028741093",
+      "email": "vmorales@misena.edu.co",
+      "telefono": "312 901 2345",
+      "fichaId": "ficha-1",
+      "fichaNumero": "2847431",
+      "programa": "Análisis y Desarrollo de Software (ADSO)",
+      "etapa": "Práctica",
+      "items": {
+        "B1": {
+          "id": "B1",
+          "label": "B1",
+          "tipo": "bitacora",
+          "numero": 1,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_1_Valentina_Morales.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 1",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 80,
+            "actividades": [
+              "Construcción de interfaces de usuario accesibles con Tailwind CSS y Vue 3.",
+              "Integración con servicios GraphQL y control de estado reactivo."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Camilo Rojas",
+            "cargoTutor": "Staff Software Engineer",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Globant Colombia.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B2": {
+          "id": "B2",
+          "label": "B2",
+          "tipo": "bitacora",
+          "numero": 2,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_2_Valentina_Morales.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 2",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 160,
+            "actividades": [
+              "Construcción de interfaces de usuario accesibles con Tailwind CSS y Vue 3.",
+              "Integración con servicios GraphQL y control de estado reactivo."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Camilo Rojas",
+            "cargoTutor": "Staff Software Engineer",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Globant Colombia.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B3": {
+          "id": "B3",
+          "label": "B3",
+          "tipo": "bitacora",
+          "numero": 3,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_3_Valentina_Morales.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 3",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 240,
+            "actividades": [
+              "Construcción de interfaces de usuario accesibles con Tailwind CSS y Vue 3.",
+              "Integración con servicios GraphQL y control de estado reactivo."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Camilo Rojas",
+            "cargoTutor": "Staff Software Engineer",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Globant Colombia.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B4": {
+          "id": "B4",
+          "label": "B4",
+          "tipo": "bitacora",
+          "numero": 4,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_4_Valentina_Morales.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 4",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 320,
+            "actividades": [
+              "Construcción de interfaces de usuario accesibles con Tailwind CSS y Vue 3.",
+              "Integración con servicios GraphQL y control de estado reactivo."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Camilo Rojas",
+            "cargoTutor": "Staff Software Engineer",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Globant Colombia.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B5": {
+          "id": "B5",
+          "label": "B5",
+          "tipo": "bitacora",
+          "numero": 5,
+          "estado": "pendiente",
+          "archivo": {
+            "nombre": "Bitacora_5_Valentina_Morales.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "periodoQuincenal": "Quincena 5",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 400,
+            "actividades": [
+              "Pruebas E2E con Cypress y reporte de bugs en Jira."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Camilo Rojas",
+            "cargoTutor": "Staff Software Engineer",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Globant Colombia."
+          }
+        },
+        "B6": {
+          "id": "B6",
+          "label": "B6",
+          "tipo": "bitacora",
+          "numero": 6,
+          "estado": "none"
+        },
+        "B7": {
+          "id": "B7",
+          "label": "B7",
+          "tipo": "bitacora",
+          "numero": 7,
+          "estado": "none"
+        },
+        "B8": {
+          "id": "B8",
+          "label": "B8",
+          "tipo": "bitacora",
+          "numero": 8,
+          "estado": "none"
+        },
+        "B9": {
+          "id": "B9",
+          "label": "B9",
+          "tipo": "bitacora",
+          "numero": 9,
+          "estado": "none"
+        },
+        "B10": {
+          "id": "B10",
+          "label": "B10",
+          "tipo": "bitacora",
+          "numero": 10,
+          "estado": "none"
+        },
+        "B11": {
+          "id": "B11",
+          "label": "B11",
+          "tipo": "bitacora",
+          "numero": 11,
+          "estado": "none"
+        },
+        "B12": {
+          "id": "B12",
+          "label": "B12",
+          "tipo": "bitacora",
+          "numero": 12,
+          "estado": "none"
+        },
+        "carnet": {
+          "id": "carnet",
+          "label": "Carnet",
+          "tipo": "soporte",
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "CARNET_Valentina_Morales.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "fechaRevision": "2025-05-12",
+            "tipoDocumento": "Copia Carnet Institucional SENA",
+            "actividades": [
+              "Verificación de documento reglamentario: Copia Carnet Institucional SENA"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesInstructor": "Documento institucional válido y legible verificado."
+          }
+        },
+        "cedula": {
+          "id": "cedula",
+          "label": "C.C.",
+          "tipo": "soporte",
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "CEDULA_Valentina_Morales.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "fechaRevision": "2025-05-12",
+            "tipoDocumento": "Cédula de Ciudadanía al 150%",
+            "actividades": [
+              "Verificación de documento reglamentario: Cédula de Ciudadanía al 150%"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesInstructor": "Documento institucional válido y legible verificado."
+          }
+        },
+        "ape": {
+          "id": "ape",
+          "label": "APE",
+          "tipo": "soporte",
+          "estado": "none"
+        },
+        "tyt": {
+          "id": "tyt",
+          "label": "TyT",
+          "tipo": "soporte",
+          "estado": "none"
+        }
+      },
+      "empresa": {
+        "razonSocial": "Globant Colombia S.A.S.",
+        "nit": "900.567.890-3",
+        "direccion": "Calle 93B # 13 - 45, Edificio WeWork",
+        "ciudad": "Bogotá D.C.",
+        "tutorNombre": "Ing. Camilo Rojas",
+        "tutorCargo": "Staff Software Engineer",
+        "tutorTelefono": "317 890 1234",
+        "tutorEmail": "camilo.rojas@globant.com",
+        "fechaInicio": "2025-05-01",
+        "fechaFin": "2025-11-01",
+        "modalidad": "Contrato de Aprendizaje",
+        "lat": 4.6792,
+        "lng": -74.0495
+      }
+    },
+    {
+      "id": "apr-5",
+      "nombre": "Andrés Felipe Castro Muñoz",
+      "documento": "1090483920",
+      "email": "afcastro@misena.edu.co",
+      "telefono": "310 123 4567",
+      "fichaId": "ficha-1",
+      "fichaNumero": "2847431",
+      "programa": "Análisis y Desarrollo de Software (ADSO)",
+      "etapa": "Práctica",
+      "items": {
+        "B1": {
+          "id": "B1",
+          "label": "B1",
+          "tipo": "bitacora",
+          "numero": 1,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_1_Andres_Felipe_Castro.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 1",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 80,
+            "actividades": [
+              "Modelado y migración de bases de datos PostgreSQL a entornos Docker.",
+              "Optimización de consultas complejas y generación de reportes analíticos."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Dra. Marcela Echeverri",
+            "cargoTutor": "Directora de Transformación Digital",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Grupo SURA.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B2": {
+          "id": "B2",
+          "label": "B2",
+          "tipo": "bitacora",
+          "numero": 2,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_2_Andres_Felipe_Castro.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 2",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 160,
+            "actividades": [
+              "Modelado y migración de bases de datos PostgreSQL a entornos Docker.",
+              "Optimización de consultas complejas y generación de reportes analíticos."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Dra. Marcela Echeverri",
+            "cargoTutor": "Directora de Transformación Digital",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Grupo SURA.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B3": {
+          "id": "B3",
+          "label": "B3",
+          "tipo": "bitacora",
+          "numero": 3,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_3_Andres_Felipe_Castro.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 3",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 240,
+            "actividades": [
+              "Modelado y migración de bases de datos PostgreSQL a entornos Docker.",
+              "Optimización de consultas complejas y generación de reportes analíticos."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Dra. Marcela Echeverri",
+            "cargoTutor": "Directora de Transformación Digital",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Grupo SURA.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B4": {
+          "id": "B4",
+          "label": "B4",
+          "tipo": "bitacora",
+          "numero": 4,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_4_Andres_Felipe_Castro.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 4",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 320,
+            "actividades": [
+              "Modelado y migración de bases de datos PostgreSQL a entornos Docker.",
+              "Optimización de consultas complejas y generación de reportes analíticos."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Dra. Marcela Echeverri",
+            "cargoTutor": "Directora de Transformación Digital",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Grupo SURA.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B5": {
+          "id": "B5",
+          "label": "B5",
+          "tipo": "bitacora",
+          "numero": 5,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_5_Andres_Felipe_Castro.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 5",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 400,
+            "actividades": [
+              "Modelado y migración de bases de datos PostgreSQL a entornos Docker.",
+              "Optimización de consultas complejas y generación de reportes analíticos."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Dra. Marcela Echeverri",
+            "cargoTutor": "Directora de Transformación Digital",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Grupo SURA.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B6": {
+          "id": "B6",
+          "label": "B6",
+          "tipo": "bitacora",
+          "numero": 6,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_6_Andres_Felipe_Castro.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 6",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 480,
+            "actividades": [
+              "Modelado y migración de bases de datos PostgreSQL a entornos Docker.",
+              "Optimización de consultas complejas y generación de reportes analíticos."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Dra. Marcela Echeverri",
+            "cargoTutor": "Directora de Transformación Digital",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Grupo SURA.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B7": {
+          "id": "B7",
+          "label": "B7",
+          "tipo": "bitacora",
+          "numero": 7,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_7_Andres_Felipe_Castro.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 7",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 560,
+            "actividades": [
+              "Modelado y migración de bases de datos PostgreSQL a entornos Docker.",
+              "Optimización de consultas complejas y generación de reportes analíticos."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Dra. Marcela Echeverri",
+            "cargoTutor": "Directora de Transformación Digital",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Grupo SURA.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B8": {
+          "id": "B8",
+          "label": "B8",
+          "tipo": "bitacora",
+          "numero": 8,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_8_Andres_Felipe_Castro.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 8",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 640,
+            "actividades": [
+              "Modelado y migración de bases de datos PostgreSQL a entornos Docker.",
+              "Optimización de consultas complejas y generación de reportes analíticos."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Dra. Marcela Echeverri",
+            "cargoTutor": "Directora de Transformación Digital",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Grupo SURA.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B9": {
+          "id": "B9",
+          "label": "B9",
+          "tipo": "bitacora",
+          "numero": 9,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_9_Andres_Felipe_Castro.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 9",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 720,
+            "actividades": [
+              "Modelado y migración de bases de datos PostgreSQL a entornos Docker.",
+              "Optimización de consultas complejas y generación de reportes analíticos."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Dra. Marcela Echeverri",
+            "cargoTutor": "Directora de Transformación Digital",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Grupo SURA.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B10": {
+          "id": "B10",
+          "label": "B10",
+          "tipo": "bitacora",
+          "numero": 10,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_10_Andres_Felipe_Castro.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 10",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 800,
+            "actividades": [
+              "Modelado y migración de bases de datos PostgreSQL a entornos Docker.",
+              "Optimización de consultas complejas y generación de reportes analíticos."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Dra. Marcela Echeverri",
+            "cargoTutor": "Directora de Transformación Digital",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Grupo SURA.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B11": {
+          "id": "B11",
+          "label": "B11",
+          "tipo": "bitacora",
+          "numero": 11,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_11_Andres_Felipe_Castro.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 11",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 880,
+            "actividades": [
+              "Modelado y migración de bases de datos PostgreSQL a entornos Docker.",
+              "Optimización de consultas complejas y generación de reportes analíticos."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Dra. Marcela Echeverri",
+            "cargoTutor": "Directora de Transformación Digital",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Grupo SURA.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B12": {
+          "id": "B12",
+          "label": "B12",
+          "tipo": "bitacora",
+          "numero": 12,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_12_Andres_Felipe_Castro.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 12",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 960,
+            "actividades": [
+              "Modelado y migración de bases de datos PostgreSQL a entornos Docker.",
+              "Optimización de consultas complejas y generación de reportes analíticos."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Dra. Marcela Echeverri",
+            "cargoTutor": "Directora de Transformación Digital",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Grupo SURA.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "carnet": {
+          "id": "carnet",
+          "label": "Carnet",
+          "tipo": "soporte",
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "CARNET_Andres_Felipe_Castro.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "fechaRevision": "2025-05-12",
+            "tipoDocumento": "Copia Carnet Institucional SENA",
+            "actividades": [
+              "Verificación de documento reglamentario: Copia Carnet Institucional SENA"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesInstructor": "Documento institucional válido y legible verificado."
+          }
+        },
+        "cedula": {
+          "id": "cedula",
+          "label": "C.C.",
+          "tipo": "soporte",
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "CEDULA_Andres_Felipe_Castro.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "fechaRevision": "2025-05-12",
+            "tipoDocumento": "Cédula de Ciudadanía al 150%",
+            "actividades": [
+              "Verificación de documento reglamentario: Cédula de Ciudadanía al 150%"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesInstructor": "Documento institucional válido y legible verificado."
+          }
+        },
+        "ape": {
+          "id": "ape",
+          "label": "APE",
+          "tipo": "soporte",
+          "estado": "none"
+        },
+        "tyt": {
+          "id": "tyt",
+          "label": "TyT",
+          "tipo": "soporte",
+          "estado": "pendiente",
+          "archivo": {
+            "nombre": "TYT_Andres_Felipe_Castro.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "tipoDocumento": "Certificado Presentación Pruebas Saber TyT",
+            "actividades": [
+              "Verificación de documento reglamentario: Certificado Presentación Pruebas Saber TyT"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true
+          }
+        }
+      },
+      "empresa": {
+        "razonSocial": "Grupo SURA S.A.",
+        "nit": "890.904.996-1",
+        "direccion": "Carrera 43A # 5A - 113, Edificio One Plaza",
+        "ciudad": "Medellín, Antioquia",
+        "tutorNombre": "Dra. Marcela Echeverri",
+        "tutorCargo": "Directora de Transformación Digital",
+        "tutorTelefono": "313 456 7891",
+        "tutorEmail": "mecheverri@gruposura.com.co",
+        "fechaInicio": "2025-04-15",
+        "fechaFin": "2025-10-15",
+        "modalidad": "Contrato de Aprendizaje",
+        "lat": 6.2085,
+        "lng": -75.5684
+      }
+    },
+    {
+      "id": "apr-6",
+      "nombre": "Camila Andrea Torres Bedoya",
+      "documento": "1014983021",
+      "email": "catorres@misena.edu.co",
+      "telefono": "315 678 9012",
+      "fichaId": "ficha-2",
+      "fichaNumero": "2712950",
+      "programa": "Gestión de Redes de Datos",
+      "etapa": "Práctica",
+      "items": {
+        "B1": {
+          "id": "B1",
+          "label": "B1",
+          "tipo": "bitacora",
+          "numero": 1,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_1_Camila_Andrea_Torres.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 1",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 80,
+            "actividades": [
+              "Desarrollo de módulos de facturación electrónica DIAN bajo estándar UBL 2.1.",
+              "Automatización de pruebas unitarias y de integración."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Mauricio Osorio",
+            "cargoTutor": "Gerente de Desarrollo de Software",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Carvajal Tecnología.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B2": {
+          "id": "B2",
+          "label": "B2",
+          "tipo": "bitacora",
+          "numero": 2,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_2_Camila_Andrea_Torres.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 2",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 160,
+            "actividades": [
+              "Desarrollo de módulos de facturación electrónica DIAN bajo estándar UBL 2.1.",
+              "Automatización de pruebas unitarias y de integración."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Mauricio Osorio",
+            "cargoTutor": "Gerente de Desarrollo de Software",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Carvajal Tecnología.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B3": {
+          "id": "B3",
+          "label": "B3",
+          "tipo": "bitacora",
+          "numero": 3,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_3_Camila_Andrea_Torres.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 3",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 240,
+            "actividades": [
+              "Desarrollo de módulos de facturación electrónica DIAN bajo estándar UBL 2.1.",
+              "Automatización de pruebas unitarias y de integración."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Mauricio Osorio",
+            "cargoTutor": "Gerente de Desarrollo de Software",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Carvajal Tecnología.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B4": {
+          "id": "B4",
+          "label": "B4",
+          "tipo": "bitacora",
+          "numero": 4,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_4_Camila_Andrea_Torres.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 4",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 320,
+            "actividades": [
+              "Desarrollo de módulos de facturación electrónica DIAN bajo estándar UBL 2.1.",
+              "Automatización de pruebas unitarias y de integración."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Mauricio Osorio",
+            "cargoTutor": "Gerente de Desarrollo de Software",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Carvajal Tecnología.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B5": {
+          "id": "B5",
+          "label": "B5",
+          "tipo": "bitacora",
+          "numero": 5,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_5_Camila_Andrea_Torres.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 5",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 400,
+            "actividades": [
+              "Desarrollo de módulos de facturación electrónica DIAN bajo estándar UBL 2.1.",
+              "Automatización de pruebas unitarias y de integración."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Mauricio Osorio",
+            "cargoTutor": "Gerente de Desarrollo de Software",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Carvajal Tecnología.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B6": {
+          "id": "B6",
+          "label": "B6",
+          "tipo": "bitacora",
+          "numero": 6,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_6_Camila_Andrea_Torres.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 6",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 480,
+            "actividades": [
+              "Desarrollo de módulos de facturación electrónica DIAN bajo estándar UBL 2.1.",
+              "Automatización de pruebas unitarias y de integración."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Mauricio Osorio",
+            "cargoTutor": "Gerente de Desarrollo de Software",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Carvajal Tecnología.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B7": {
+          "id": "B7",
+          "label": "B7",
+          "tipo": "bitacora",
+          "numero": 7,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_7_Camila_Andrea_Torres.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 7",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 560,
+            "actividades": [
+              "Desarrollo de módulos de facturación electrónica DIAN bajo estándar UBL 2.1.",
+              "Automatización de pruebas unitarias y de integración."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Mauricio Osorio",
+            "cargoTutor": "Gerente de Desarrollo de Software",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Carvajal Tecnología.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B8": {
+          "id": "B8",
+          "label": "B8",
+          "tipo": "bitacora",
+          "numero": 8,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_8_Camila_Andrea_Torres.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 8",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 640,
+            "actividades": [
+              "Desarrollo de módulos de facturación electrónica DIAN bajo estándar UBL 2.1.",
+              "Automatización de pruebas unitarias y de integración."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Mauricio Osorio",
+            "cargoTutor": "Gerente de Desarrollo de Software",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Carvajal Tecnología.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B9": {
+          "id": "B9",
+          "label": "B9",
+          "tipo": "bitacora",
+          "numero": 9,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_9_Camila_Andrea_Torres.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 9",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 720,
+            "actividades": [
+              "Desarrollo de módulos de facturación electrónica DIAN bajo estándar UBL 2.1.",
+              "Automatización de pruebas unitarias y de integración."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Mauricio Osorio",
+            "cargoTutor": "Gerente de Desarrollo de Software",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Carvajal Tecnología.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B10": {
+          "id": "B10",
+          "label": "B10",
+          "tipo": "bitacora",
+          "numero": 10,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_10_Camila_Andrea_Torres.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 10",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 800,
+            "actividades": [
+              "Desarrollo de módulos de facturación electrónica DIAN bajo estándar UBL 2.1.",
+              "Automatización de pruebas unitarias y de integración."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Mauricio Osorio",
+            "cargoTutor": "Gerente de Desarrollo de Software",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Carvajal Tecnología.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B11": {
+          "id": "B11",
+          "label": "B11",
+          "tipo": "bitacora",
+          "numero": 11,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_11_Camila_Andrea_Torres.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 11",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 880,
+            "actividades": [
+              "Desarrollo de módulos de facturación electrónica DIAN bajo estándar UBL 2.1.",
+              "Automatización de pruebas unitarias y de integración."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Mauricio Osorio",
+            "cargoTutor": "Gerente de Desarrollo de Software",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Carvajal Tecnología.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "B12": {
+          "id": "B12",
+          "label": "B12",
+          "tipo": "bitacora",
+          "numero": 12,
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "Bitacora_12_Camila_Andrea_Torres.pdf",
+            "tamano": "1.4 MB",
+            "fechaCarga": "2025-06-15",
+            "fechaRevision": "2025-06-18",
+            "periodoQuincenal": "Quincena 12",
+            "horasPeriodo": 80,
+            "horasAcumuladas": 960,
+            "actividades": [
+              "Desarrollo de módulos de facturación electrónica DIAN bajo estándar UBL 2.1.",
+              "Automatización de pruebas unitarias y de integración."
+            ],
+            "competencias": [
+              "Construir componentes de software de acuerdo con la arquitectura y especificaciones del cliente",
+              "Verificar componentes de software mediante pruebas automatizadas y control de calidad"
+            ],
+            "tutorEmpresa": "Ing. Mauricio Osorio",
+            "cargoTutor": "Gerente de Desarrollo de Software",
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesAprendiz": "Cumplimiento satisfactorio del plan quincenal de trabajo en Carvajal Tecnología.",
+            "observacionesInstructor": "Bitácora revisada y avalada. Actividades alineadas con el plan formativo de ADSO."
+          }
+        },
+        "carnet": {
+          "id": "carnet",
+          "label": "Carnet",
+          "tipo": "soporte",
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "CARNET_Camila_Andrea_Torres.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "fechaRevision": "2025-05-12",
+            "tipoDocumento": "Copia Carnet Institucional SENA",
+            "actividades": [
+              "Verificación de documento reglamentario: Copia Carnet Institucional SENA"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesInstructor": "Documento institucional válido y legible verificado."
+          }
+        },
+        "cedula": {
+          "id": "cedula",
+          "label": "C.C.",
+          "tipo": "soporte",
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "CEDULA_Camila_Andrea_Torres.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "fechaRevision": "2025-05-12",
+            "tipoDocumento": "Cédula de Ciudadanía al 150%",
+            "actividades": [
+              "Verificación de documento reglamentario: Cédula de Ciudadanía al 150%"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesInstructor": "Documento institucional válido y legible verificado."
+          }
+        },
+        "ape": {
+          "id": "ape",
+          "label": "APE",
+          "tipo": "soporte",
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "APE_Camila_Andrea_Torres.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "fechaRevision": "2025-05-12",
+            "tipoDocumento": "Certificado Registro APE (Agencia Pública de Empleo)",
+            "actividades": [
+              "Verificación de documento reglamentario: Certificado Registro APE (Agencia Pública de Empleo)"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesInstructor": "Documento institucional válido y legible verificado."
+          }
+        },
+        "tyt": {
+          "id": "tyt",
+          "label": "TyT",
+          "tipo": "soporte",
+          "estado": "aprobado",
+          "archivo": {
+            "nombre": "TYT_Camila_Andrea_Torres.pdf",
+            "tamano": "840 KB",
+            "fechaCarga": "2025-05-10",
+            "fechaRevision": "2025-05-12",
+            "tipoDocumento": "Certificado Presentación Pruebas Saber TyT",
+            "actividades": [
+              "Verificación de documento reglamentario: Certificado Presentación Pruebas Saber TyT"
+            ],
+            "firmadoAprendiz": true,
+            "firmadoTutor": true,
+            "observacionesInstructor": "Documento institucional válido y legible verificado."
+          }
+        }
+      },
+      "empresa": {
+        "razonSocial": "Carvajal Tecnología y Servicios S.A.S.",
+        "nit": "890.300.279-0",
+        "direccion": "Calle 29 Norte # 6A - 40",
+        "ciudad": "Cali, Valle del Cauca",
+        "tutorNombre": "Ing. Mauricio Osorio",
+        "tutorCargo": "Gerente de Desarrollo e Infraestructura",
+        "tutorTelefono": "314 321 0987",
+        "tutorEmail": "mauricio.osorio@carvajal.com",
+        "fechaInicio": "2025-02-02",
+        "fechaFin": "2025-08-02",
+        "modalidad": "Contrato de Aprendizaje",
+        "lat": 3.4716,
+        "lng": -76.5182
+      },
+      "pazYSalvoGenerado": true,
+      "fechaPazYSalvo": "2025-08-05"
+    }
+  ],
+  "instructores": [
+    {
+      "id": "inst-1",
+      "nombre": "Ing. Hernán Darío Velásquez",
+      "documento": "71294810",
+      "email": "hdvelasquez@sena.edu.co",
+      "telefono": "315 892 4102",
+      "regional": "Regional Antioquia",
+      "centro": "Centro de Teleinformática y Producción Industrial (CTPI)",
+      "fichasAsignadas": [
+        "ficha-1",
+        "ficha-2"
+      ]
+    },
+    {
+      "id": "inst-2",
+      "nombre": "Ing. Claudia Patricia Morales",
+      "documento": "52849102",
+      "email": "cpmorales@sena.edu.co",
+      "telefono": "310 445 9012",
+      "regional": "Regional Distrito Capital",
+      "centro": "Centro de Gestión de Mercados, Logística y Tecnologías de la Información",
+      "fichasAsignadas": [
+        "ficha-3"
+      ]
+    }
+  ]
+}
